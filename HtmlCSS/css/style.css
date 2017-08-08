@@ -1,0 +1,149 @@
+body{
+	background: url('/home/traning/Downloads/v7KHGGb.jp');
+
+}
+
+#ima ul{
+	align-content: center;
+	width: 30%;
+	height: 10%;
+	margin-right: 5%;
+	margin-top: 4%;
+	float: right;
+
+}
+#ima{
+	background-color: #E3E3E3;
+	position: fixed;
+	width: 100%;
+	margin-top: 0px;
+}
+#ima li {
+	display:inline;
+	padding-right: 10%;
+	margin-top: 0%;
+	margin-right: 0%;
+
+}
+#foot{
+	background-color: #E3E3E3;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+	text-decoration: underline;
+}
+
+.sect{
+
+	float: left;	
+	width: 30%;
+	height: 45%;
+	margin-left: 2%;
+	text-align: center;
+
+}
+
+
+.sect2{
+	
+	float: left;
+	margin-left: 2%;
+	width: 31%;
+	height: 45%;
+	text-align: center;
+}
+.sect3{
+	
+	float: left;
+	margin-left: 2%;
+	width: 31%;
+	height: 45%;
+	text-align: center;
+}
+
+.sect4{
+	float: left;
+	margin-left: 2%;
+	width: 31%;
+	height: 40%;
+	text-align: center;
+}
+.sect5{
+	
+	float: left;
+	margin-left: 2%;
+	width: 31%;
+	height: 40%;
+	text-align: center;
+}
+.sect6{
+	
+	float: left;
+	margin-left: 2%;
+	width: 31%;
+	height: 40%;
+	text-align: center;
+}
+footer
+{
+	clear: both;
+	position: relative;
+	bottom: 0;
+	background-color: white;
+	width:100%;
+	height:10%;
+	margin-top: 45%;
+	color:blue;
+	text-align: center;
+}
+footer img{	
+	margin-right: 1%;
+	height: 100%;
+	width: 5%;
+}
+#hero{
+	margin-top: 6%;
+	margin-left: 11%;
+	height: 80%;
+	width:79%;
+	text-align: center;
+	background: url('../images/weat1.jpg');
+
+}
+.lst{
+	margin-top: 7%;
+}
+
+#hero form{
+	width: 100%
+	height:100%;
+}
+h1{
+	text-align: center;
+}
+.about{
+	margin-top: 7%;
+	float: left;
+	margin-left: 10%;
+}
+.about img{
+	width: 80%;
+}
+.lst li{
+	margin-top: 0.5%;
+}
+.feed{
+	margin-top: 3%;
+	margin-left: 10%;
+}
+.af{
+	margin-top: 7.5%;
+	background: #E3E3E3;
+}
+.main{
+	margin-left: 10%;
+	margin-right: 10%;	
+}
